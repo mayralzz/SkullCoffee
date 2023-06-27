@@ -1,0 +1,96 @@
+.card {
+    background-color: #65605B;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: Spectral;
+    font-size: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.25);
+    max-width: 540px; 
+    min-width: 296px;
+}
+
+.card-text {
+    position: relative;
+    top: 25px;
+    margin-top: auto;
+}
+
+.oval-title {
+    position: relative;
+    text-align: center;
+    font-family: Spectral;
+    font-size: 20px;
+    background-color: #65605B;
+    box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 300px;
+    height: 50px;
+    border-radius: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+    width: 300px;
+    height: 300px;
+    margin-left: 300px;
+}
+
+.texto{
+    color:#ffffff;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 340px;
+}
+.valor{
+    color:#ffffff;
+    font-size: 18px;
+    margin-left: 340px;
+}
+
+.oval-titlee {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    font-family: Spectral;
+    font-size: 20px;
+    background-color: #65605B;
+    color: #ffffff;
+    width: 290px;
+    height: 50px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 315px;
+    padding-top: 15px;
+    text-decoration: none;
+}
+
+.carrovrum{
+    margin: 0px 15px 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.btnn{
+    text-decoration: none;
+    border: none;
+    box-shadow: 10px 10px 4px 0px #00000040;
+}
+
+.btnn:hover{
+    text-decoration: none;
+    border: none;
+    border-color: #00000000;
+    background-color: #00000000;
+    box-shadow: 10px 10px 4px 0px #00000040;
+}
+
+.BATATA{
+    outline: none;
+    text-decoration: none;
+    margin-top: 5px;
+}

@@ -1,0 +1,18 @@
+1º Tem que guardar literalmente todas imagens na pasta src/
+2º No default.html já tem a navbar e o footer como tem que ser em todas páginas ja com bootstrap linkado é só copiar tudo.
+3º Na pasta css/default.css tem o css e na js/default.js o script padrão NÃO é pra mexer neles mas sempre mantem linkado com a página.
+4º Se o link não tá funcionando arruma.
+5º Bootstrap 5.3.0
+
+
+
+
+
+
+
+
+
+
+<button class="btn-danger" onclick="addItemToCart('cafe8')">ADD</button>
+<button class="btn-danger" onclick="removeItemFromCart('cafe3')">SUB</button>
+<button class="btn-danger" onclick="removeLastItemFromCart()">SUB LAST</button>
